@@ -9,6 +9,6 @@ in your computer which some people feel a lot safer than using any third-party a
 into that particular website, I could simply go the text file that saved my passwords. And it got some basic validations froe g, if 
 you leave some field empty and directly click ‘Add’ button, you get a pop up saying ‘Don’t leave any fields empty!’ 
 
-----------------UI SETUP----------------------
+-----------------------------------UI SETUP------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/112435016/235382495-d346799e-98ff-4e1c-b019-c74571ecdeb7.png)
